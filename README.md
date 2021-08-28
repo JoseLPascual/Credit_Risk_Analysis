@@ -23,4 +23,4 @@ Through the analysis of the data given, I have been able to determine the follow
 - For the Easy Ensemble AdaBoost Classifier, the balanced accuracy score is 0.93, the precision score is 0.99, and the recall score is 0.94.
 
 ## Summary
-
+Based on these results, and on the consideration that sensitivity is more important than recall in determining the creditworthiness of an account holder in receiving a loan, I hereby conclude that the best algorithm to use for that purpose would be the Easy Ensemble AdaBoost Classifier, for it has the highest recall score out of any algorithm tested, clocking in at 0.94.  While all algorithms tested had identical precision scores at 0.99 (to two decimal points,) the Easy Ensemble AdaBoost Classifier also boasted the highest balanced accuracy score, registering at 0.93.  Without a doubt, I would endorse the Easy Ensemble AdaBoost Classifier for this and related applications.
